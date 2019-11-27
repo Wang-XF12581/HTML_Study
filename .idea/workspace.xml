@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e9461e4-ec07-4f9e-ac21-55ad755cf51e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.html" afterDir="false" />
+    <list default="true" id="9e9461e4-ec07-4f9e-ac21-55ad755cf51e" name="Default Changelist" comment="select、a、img标签">
+      <change afterPath="$PROJECT_DIR$/label.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/表格.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/s1.html" beforeDir="false" afterPath="$PROJECT_DIR$/s1.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,8 +83,17 @@
       <updated>1574489993957</updated>
       <workItem from="1574490004902" duration="43000" />
       <workItem from="1574490095392" duration="10824000" />
-      <workItem from="1574773583868" duration="4785000" />
+      <workItem from="1574773583868" duration="5632000" />
+      <workItem from="1574846884274" duration="4923000" />
     </task>
+    <task id="LOCAL-00001" summary="select、a、img标签">
+      <created>1574783422455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574783422455</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,5 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="select、a、img标签" />
+    <option name="LAST_COMMIT_MESSAGE" value="select、a、img标签" />
   </component>
 </project>
