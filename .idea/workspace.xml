@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e9461e4-ec07-4f9e-ac21-55ad755cf51e" name="Default Changelist" comment="表格、label、fieldset">
-      <change afterPath="$PROJECT_DIR$/css.html" afterDir="false" />
+    <list default="true" id="9e9461e4-ec07-4f9e-ac21-55ad755cf51e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/display.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/float.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/边框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/边框等.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/表格.html" beforeDir="false" afterPath="$PROJECT_DIR$/表格.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -43,6 +46,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -84,7 +88,8 @@
       <workItem from="1574490004902" duration="43000" />
       <workItem from="1574490095392" duration="10824000" />
       <workItem from="1574773583868" duration="5632000" />
-      <workItem from="1574846884274" duration="10522000" />
+      <workItem from="1574846884274" duration="11216000" />
+      <workItem from="1575009386426" duration="7870000" />
     </task>
     <task id="LOCAL-00001" summary="select、a、img标签">
       <created>1574783422455</created>
@@ -100,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574852142926</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="css所以选择器">
+      <created>1574861970625</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574861970625</updated>
+    </task>
+    <task id="LOCAL-00004" summary="css所有选择器">
+      <created>1574862071849</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574862071849</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +141,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="select、a、img标签" />
     <MESSAGE value="表格、label、fieldset" />
-    <option name="LAST_COMMIT_MESSAGE" value="表格、label、fieldset" />
+    <MESSAGE value="css所以选择器" />
+    <MESSAGE value="css所有选择器" />
+    <option name="LAST_COMMIT_MESSAGE" value="css所有选择器" />
   </component>
 </project>
