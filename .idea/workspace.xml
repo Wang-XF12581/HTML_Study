@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e9461e4-ec07-4f9e-ac21-55ad755cf51e" name="Default Changelist" comment="" />
+    <list default="true" id="9e9461e4-ec07-4f9e-ac21-55ad755cf51e" name="Default Changelist" comment="float">
+      <change afterPath="$PROJECT_DIR$/position.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relative absolute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/头部.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input.html" beforeDir="false" afterPath="$PROJECT_DIR$/Input.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/display.html" beforeDir="false" afterPath="$PROJECT_DIR$/display.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/float.html" beforeDir="false" afterPath="$PROJECT_DIR$/float.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/label.html" beforeDir="false" afterPath="$PROJECT_DIR$/label.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +93,7 @@
       <workItem from="1574773583868" duration="5632000" />
       <workItem from="1574846884274" duration="11216000" />
       <workItem from="1575009386426" duration="8133000" />
+      <workItem from="1575196865978" duration="18311000" />
     </task>
     <task id="LOCAL-00001" summary="select、a、img标签">
       <created>1574783422455</created>
