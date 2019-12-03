@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e9461e4-ec07-4f9e-ac21-55ad755cf51e" name="Default Changelist" comment="float">
-      <change afterPath="$PROJECT_DIR$/position.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relative absolute.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/头部.html" afterDir="false" />
+    <list default="true" id="9e9461e4-ec07-4f9e-ac21-55ad755cf51e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/图片.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input.html" beforeDir="false" afterPath="$PROJECT_DIR$/Input.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/display.html" beforeDir="false" afterPath="$PROJECT_DIR$/display.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/float.html" beforeDir="false" afterPath="$PROJECT_DIR$/float.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/label.html" beforeDir="false" afterPath="$PROJECT_DIR$/label.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/position.html" beforeDir="false" afterPath="$PROJECT_DIR$/position.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +88,7 @@
       <workItem from="1574773583868" duration="5632000" />
       <workItem from="1574846884274" duration="11216000" />
       <workItem from="1575009386426" duration="8133000" />
-      <workItem from="1575196865978" duration="18311000" />
+      <workItem from="1575196865978" duration="23277000" />
     </task>
     <task id="LOCAL-00001" summary="select、a、img标签">
       <created>1574783422455</created>
@@ -130,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575019631161</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="position">
+      <created>1575289755314</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575289755314</updated>
+    </task>
+    <task id="LOCAL-00007" summary="position：fixed">
+      <created>1575289875938</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575289875938</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +164,8 @@
     <MESSAGE value="css所以选择器" />
     <MESSAGE value="css所有选择器" />
     <MESSAGE value="float" />
-    <option name="LAST_COMMIT_MESSAGE" value="float" />
+    <MESSAGE value="position" />
+    <MESSAGE value="position：fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="position：fixed" />
   </component>
 </project>
