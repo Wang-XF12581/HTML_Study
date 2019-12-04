@@ -5,12 +5,14 @@
     <title>Title</title>
     <style>
         .pg-header{
-    position:fixed;
+        position:fixed;
         right:0;
         left:0;
         top:0;
         height:48px;
-        background-color:#2459a2;}
+        background-color:#2459a2;
+        line-height: 48px;
+        }
         .pg-body{
             margin-top: 50px;
 
@@ -19,28 +21,28 @@
             width:980px;
             margin:0 auto;
         }
-        .pg-header.menu{
+        .pg-header .menu{
             display:inline-block;
-            padding:0 10px 0 10px;
+            padding:0 20px 0 20px;
             color:white;
         }
-        .pg-header.menu:hover{
-            background-color: #dddddd;
+        .pg-header .menu:hover{
+            background-color:grey;
         }
     </style>
 </head>
 <body>
 <div class="pg-header">
     <div class="w">
-        <div class="logo">logo</div>
-    <a class="menu">我的主页</a>
-    <a class="menu">我的好友</a>
-    <a class="menu">我的群聊</a>
-    <a class="menu">我的空间</a>
-        </div>
+        <a class="logo">Logo</a>
+        <a class="menu">我的QQ</a>
+        <a class="menu">我的微信</a>
+        <a class="menu">我的微博</a>
+        <a class="menu">我的探探</a>
+    </div>
 </div>
 <div class="pg-body">
-    <div class="w">123456</div>
+    <div class="w">今天又熬夜啦！</div>
 </div>
 </body>
 </html>
