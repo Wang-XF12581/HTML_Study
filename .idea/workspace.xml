@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e9461e4-ec07-4f9e-ac21-55ad755cf51e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js基础.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/侧菜单.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js基础.html" beforeDir="false" afterPath="$PROJECT_DIR$/js基础.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +88,7 @@
       <workItem from="1574773583868" duration="5632000" />
       <workItem from="1574846884274" duration="11216000" />
       <workItem from="1575009386426" duration="8133000" />
-      <workItem from="1575196865978" duration="36769000" />
+      <workItem from="1575196865978" duration="44825000" />
     </task>
     <task id="LOCAL-00001" summary="select、a、img标签">
       <created>1574783422455</created>
@@ -152,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575470135064</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="dom演练">
+      <created>1575817377493</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575817377494</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +189,7 @@
     <MESSAGE value="position：fixed" />
     <MESSAGE value="menu" />
     <MESSAGE value="图片" />
-    <option name="LAST_COMMIT_MESSAGE" value="图片" />
+    <MESSAGE value="dom演练" />
+    <option name="LAST_COMMIT_MESSAGE" value="dom演练" />
   </component>
 </project>

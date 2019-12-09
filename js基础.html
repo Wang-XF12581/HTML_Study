@@ -33,25 +33,32 @@
 <body style="margin:0;">
 <div>
     <input type="button" value="添加" onclick="showModel();"/>
+    <input type="button" value="全选" onclick="ChooseAll();"/>
+    <input type="button" value="取消" onclick="CancelAll();"/>
+    <input type="button" value="反选" onclick="ReverseAll();"/>
     <table>
         <thead>
         <tr>
-            <th>主机口</th>
+            <th>选择</th>
+            <th>主机名</th>
             <th>端口</th>
         </tr>
         </thead>
-        <tbody>
+        <tbody id="tb">
         <tr>
-        <td>1.1.1.1</td>
-        <td>190</td>
+            <td><input type="checkbox"/></td>
+            <td>1.1.1.1</td>
+            <td>190</td>
         </tr>
         <tr>
-        <td>1.1.1.2</td>
-        <td>192</td>
+            <td><input type="checkbox"/></td>
+            <td>1.1.1.2</td>
+            <td>192</td>
         </tr>
         <tr>
-        <td>1.1.1.3</td>
-        <td>193</td>
+            <td><input type="checkbox"/></td>
+            <td>1.1.1.3</td>
+            <td>193</td>
         </tr>
         </tbody>
     </table>
@@ -79,6 +86,44 @@
     function hideModel(){
         document.getElementById('i1').classList.add('hide');
         document.getElementById('i2').classList.add('hide');
+    }
+    function ChooseAll(){
+        var tbody=document.getElementById('tb');
+        //获取所有的tr
+        var tr_list=tbody.children;
+        for(var i=0;i<tr_list.length;i++){
+            //循环所有的tr，current_tr
+            var current_tr=tr_list[i];
+            var checkbox=current_tr.children[0].children[0];
+            checkbox.checked=true;
+        }
+    }
+    function CancelAll(){
+        var tbody=document.getElementById('tb');
+        //获取所有的tr
+        var tr_list=tbody.children;
+        for(var i=0;i<tr_list.length;i++){
+            //循环所有的tr，current_tr
+            var current_tr=tr_list[i];
+            var checkbox=current_tr.children[0].children[0];
+            checkbox.checked=false;
+        }
+    }
+    function ReverseAll(){
+        var tbody=document.getElementById('tb');
+        //获取所有的tr
+        var tr_list=tbody.children;
+        for(var i=0;i<tr_list.length;i++){
+            //循环所有的tr，current_tr
+            var current_tr=tr_list[i];
+            var checkbox=current_tr.children[0].children[0];
+
+            if(checkbox.checked){
+                checkbox.checked=false;
+            }else{
+                checkbox.checked=true;
+            }
+        }
     }
 </script>
 </body>
