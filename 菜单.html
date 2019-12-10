@@ -4,16 +4,15 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <style>
-        .hide{
-            display:none;
-        }
-        .item .header{
+        .item.header{
             height:35px;
             background-color: #2459a2;
             color: white;
             line-height: 35px;
         }
-
+        .hide{
+            display:none;
+        }
     </style>
 </head>
 <body>
@@ -51,17 +50,6 @@
         </div>
     </div>
 </div>
-<script>
-    function ChangeMenu(nid){
-        var current_header=document.getElementById(nid);
 
-        var item_list=current_header.parentElement.parentElement.children;
-        for(var i=0;i<item_list.length;i++) {
-            var current_item = item_list[i];
-            current_item.children[1].classList.add('hide');
-        }
-        current_header.nextElementSibling.classList.remove('hide');
-    }
-</script>
 </body>
 </html>
