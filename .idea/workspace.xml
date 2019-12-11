@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e9461e4-ec07-4f9e-ac21-55ad755cf51e" name="Default Changelist" comment="">
+    <list default="true" id="9e9461e4-ec07-4f9e-ac21-55ad755cf51e" name="Default Changelist" comment="后台管理布局">
+      <change afterPath="$PROJECT_DIR$/关键字.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/添加.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/后台.html" beforeDir="false" afterPath="$PROJECT_DIR$/后台.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +88,8 @@
       <workItem from="1574773583868" duration="5632000" />
       <workItem from="1574846884274" duration="11216000" />
       <workItem from="1575009386426" duration="8133000" />
-      <workItem from="1575196865978" duration="54632000" />
+      <workItem from="1575196865978" duration="54945000" />
+      <workItem from="1575976307130" duration="9975000" />
     </task>
     <task id="LOCAL-00001" summary="select、a、img标签">
       <created>1574783422455</created>
@@ -173,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575966469619</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="后台管理布局">
+      <created>1575970164555</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575970164556</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +214,7 @@
     <MESSAGE value="dom演练" />
     <MESSAGE value="dom" />
     <MESSAGE value="左侧菜单栏" />
-    <option name="LAST_COMMIT_MESSAGE" value="左侧菜单栏" />
+    <MESSAGE value="后台管理布局" />
+    <option name="LAST_COMMIT_MESSAGE" value="后台管理布局" />
   </component>
 </project>
